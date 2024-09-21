@@ -1,0 +1,37 @@
+/* Custom color scheme: dark grey, sage green, and white */
+body {
+    background-color: #f9f9f9;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.text-sage {
+    color: #9AA97B; /* Sage Green */
+}
+
+.bg-light {
+    background-color: #f9f9f9 !important;
+}
+
+.bg-dark {
+    background-color: #2E2E2E !important; /* Dark Grey */
+    color: white !important;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+p {
+    color: #f9f9f9;
+}
+
+footer p {
+    margin: 0;
+}
+
+.img-fluid {
+    border: 2px solid #9AA97B; /* Sage Green Border */
+}
